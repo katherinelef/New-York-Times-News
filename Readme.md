@@ -5,7 +5,7 @@ New York Times News te permite buscar entre las noticias que prefieras, esta web
 
 ## Vista previa 
 
-![image](assets/readme-img.png)
+![image](assets/images/readme-img.png)
 
 ## Desarrollado para
 
